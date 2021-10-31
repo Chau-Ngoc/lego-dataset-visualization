@@ -1,0 +1,9 @@
+name: D:\ml_datascience\lego_dataset_analysis\env
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - jupyter
+  - matplotlib
+  - numpy
+prefix: D:\ml_datascience\lego_dataset_analysis\env
